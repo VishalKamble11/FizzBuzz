@@ -1,0 +1,21 @@
+Web API 
+
+Steps :
+1. Open solution in visual studio 2022
+2. Set debugger mode to IIS Express
+3. Run the project
+4. Expand Calculator - controller
+5. Click on Try it out
+6. Enter parameters :
+    "numRes1": "string",
+    "numRes2": "string",
+    "numRes3": "string",
+    "numRes4": "string",
+    "numRes5": "string",
+    "numRes6": "string",
+    "numRes7": "string"
+7. Click on execute
+8. Check output (response) in Response Body.
+
+
+   
